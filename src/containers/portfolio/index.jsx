@@ -38,12 +38,25 @@ const portfolioData = [
 
     link: "",
   },
-  // {
-  //   id: 3,
-  //   name: "Shopping cart design",
-  //   image: ImageFive,
-  //   link: "",
-  // },
+  {
+    id: 3,
+    name: "Human-voice-detection",
+    image: ImageFive,
+    link: "",
+  },
+  {
+    id: 3,
+    name: "Face-recognition",
+    image: ImageFive,
+    link: "",
+  },
+
+  {
+    id: 3,
+    name: "Potato-disease-Classification",
+    image: ImageFive,
+    link: "",
+  },
 ];
 
 const filterData = [
