@@ -39,20 +39,20 @@ const portfolioData = [
     link: "",
   },
   {
-    id: 3,
+    id: 2,
     name: "Human-voice-detection",
     image: ImageFive,
     link: "",
   },
   {
-    id: 3,
+    id: 2,
     name: "Face-recognition",
     image: ImageFive,
     link: "",
   },
 
   {
-    id: 3,
+    id: 2,
     name: "Potato-disease-Classification",
     image: ImageFive,
     link: "",
